@@ -1,0 +1,31 @@
+_repo: Jean-Christophe-Volume-3-of-4-Antoinette-Dans-la-maison-Les-Amies_61970
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2020-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61970'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jean-Christophe Volume 3 (of 4)
+
+  Antoinette, Dans la maison, Les Amies'
+url: http://www.gutenberg.org/ebooks/61970
